@@ -10,6 +10,7 @@ h1{
 }
 section{
     display:flex;
+    margin-bottom: 120px;
 }
 .half-width{
 width:50%;
@@ -23,7 +24,7 @@ padding-left:2%;
    text-decoration: none;
    background-image: linear-gradient(orange, tomato);
    padding:10px 40px;
-   color:aqua;
+   color:blue;
    font-weight: 700;
    border-radius:5px;
 }
@@ -31,4 +32,9 @@ padding-left:2%;
    /* background-image: url(images/photo\ -new-1502675135487-e971002a6adb.jpeg); */
     background-repeat: no-repeat;
     background-size: 50px;
+}
+.dream-big{
+   background-image: url();
+   background-position: right;
+   background-repeat: no-repeat;
 }
